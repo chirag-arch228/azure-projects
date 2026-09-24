@@ -4,6 +4,6 @@
 - File share accessible via SMB.
 
 ## Screenshot
-![Storage Output](./screenshots/Blob Container Output.png)
+![Storage Output](./screenshots/Blob-Container-Output.png)
 
 Embedded screenshot in outputs.md
