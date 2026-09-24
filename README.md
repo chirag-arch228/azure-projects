@@ -54,7 +54,8 @@ cd Project1-HA-WebTier
 
 4. Review outputs.md for expected results and embedded screenshots.
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
+
 Deploy and manage highly available compute resources.
 
 Configure and protect Azure storage.
