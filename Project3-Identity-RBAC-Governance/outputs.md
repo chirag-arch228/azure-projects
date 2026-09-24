@@ -1,4 +1,5 @@
 # Outputs
-- Blob uploaded successfully (`sample.txt`).
-- Soft delete + versioning enabled.
-- File share accessible via SMB.
+- Contributor role applied to group.
+- Reader role applied to user.
+- Policy enforcement visible in portal.
+- Resource group lock prevents deletion.
